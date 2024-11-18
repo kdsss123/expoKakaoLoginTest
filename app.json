@@ -4,11 +4,11 @@
     "slug": "test001",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/0001.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/0004.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
